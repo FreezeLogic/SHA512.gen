@@ -1,4 +1,4 @@
-##How using##
+## How using
 
 SHA512.gen.exe -path
 
