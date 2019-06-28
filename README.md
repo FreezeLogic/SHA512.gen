@@ -1,6 +1,7 @@
-##How using
+##How using##
 
 SHA512.gen.exe -path
+
 path - may be filepath or folder. if path conatain folder this folder scanned recursively.
 
 By default if file with 'filename.exe' dont contain 'filename.exe.sha512' pair in the same folder, tool generate new checksum file,  but if folder contain checksum file, tool verify him and print status in terminal.
